@@ -1,7 +1,7 @@
 @charset "UTF-8";
 #mainwrapper header {
 	/*Header */
-	background-color: rgba(208,207,207,1.00);
+	background-color: rgba(255,96,0,1.00);
 	overflow: auto;
 	font-family: montserrat, sans-serif;
 	font-style: normal;
@@ -39,12 +39,12 @@ header nav a {
 	font-family: source-sans-pro, sans-serif;
 	font-style: normal;
 	font-weight: 200;
-	color: rgba(146,146,146,1.00);
+	color: rgba(215,255,,1.00);
 }
 #content #mainContent #bannerImage {
 	/*Container for main banner image */
 	width: 100%;
-	background-color: rgba(208,207,207,1.00);
+	background-color: rgba(208,27,207,1.00);
 }
 #content #mainContent p {
 	/* All paragraphs under maincontent */
@@ -56,7 +56,7 @@ header nav a {
 }
 #content #mainContent #authorInfo {
 	/* Author info section */
-	background-color: rgba(208,207,207,1.00);
+	background-color: rgba(1,107,208,1.00);
 }
 #content #mainContent #authorInfo h2, #content #mainContent #authorInfo p {
 	color: rgba(255,255,255,1.00);
@@ -64,7 +64,7 @@ header nav a {
 	padding-top: 11px;
 }
 #content #mainContent #authorInfo p {
-	color: rgba(255,255,255,1.00);
+	color: rgba(255,255,25,1.00);
 	padding-left: 2%;
 	padding-top: 0px;
 	padding-bottom: 11px;
@@ -80,7 +80,7 @@ footer article {
 	font-family: source-sans-pro, sans-serif;
 	font-style: normal;
 	font-weight: 200;
-	color: rgba(146,146,146,1.00);
+	color: rgba(255,128,0,1.00);
 }
 footer article h3 {
 	/* Footer article titles */
@@ -103,7 +103,7 @@ footer article h3 {
 	padding-left: 2%;
 	padding-right: 2%;
 	float: left;
-	background-color: rgba(246,246,246,1.00);
+	background-color: rgba(255,255,255,1.00);
 	margin-top: 150px;
 	padding-top: 32px;
 }
@@ -121,7 +121,7 @@ footer article h3 {
 #content #sidebar #adimage {
 	/* Container for Image in sidebar */
 	width: 100%;
-	background-color: rgba(208,207,207,1.00);
+	background-color: rgba(255,0,0,1.00);
 	margin-top: 46px;
 	float: none;
 	overflow: auto;
@@ -135,14 +135,14 @@ nav ul {
 	padding-left: 0%;
 }
 nav ul li a {
-	color: rgba(146,146,146,1.00);
+	color: rgba(0,136,255,1.00);
 	text-decoration: none;
 }
 #footerbar {
 	/* Footer bar at the bottom of the page */
 	height: 18px;
 	clear: both;
-	background-color: rgba(208,207,207,1.00);
+	background-color: rgba(255,0,4,1.00);
 	width: 100%;
 }
 footer {
@@ -166,7 +166,7 @@ footer {
 }
 #mainwrapper header nav a {
 	/* Links in header */
-	color: rgba(146,146,146,1.00);
+	color: rgba(146,146,14,1.00);
 	text-decoration: none;
 }
 
